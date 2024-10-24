@@ -3,13 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            TITLE_HERE
+title:            Shakespear's Second Folio
 tagline:          ''
 description:      ''
-url:              https://kikibase.github.io
+url:              https://Mpelly93.github.io
 baseurl:          '/Blog-Assignment/'
-author: WriteNameHere
-email: replace@gmail.com
+author: Mallory Pelly
+email: pellym@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
